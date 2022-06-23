@@ -38,6 +38,10 @@ Oxigraph implements the following specifications:
 
 A preliminary benchmark [is provided](bench/README.md). There is also [a document describing Oxigraph technical architecture](https://github.com/oxigraph/oxigraph/wiki/Architecture).
 
+When cloning this codebase, don't forget to clone the submodules using
+`git clone --recursive https://github.com/oxigraph/oxigraph.git` to clone the repository including submodules or
+`git submodule update --init` to add the submodules to the already cloned repository.
+
 
 ## Help
 
